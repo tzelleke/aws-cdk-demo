@@ -1,0 +1,5 @@
+aws_cdk.aws_dynamodb
+aws_cdk.core
+boto3
+cdk-chalice
+chalice
